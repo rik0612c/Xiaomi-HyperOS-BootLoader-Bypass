@@ -37,17 +37,17 @@ If you're experiencing any of the above, consider yourself damned. Ever since Xi
 
 ## 📲 Unlocking requirements
 
-- An valid device:
+- A valid device:
   - A unbanned\* Xiaomi, Redmi or POCO device.
   - Your device is running the official version of HyperOS.
   - (Update 2023/11/23) Your device is not forced to verify account qualification by Xiaomi.
-- An valid SIM card:
+- A valid SIM card:
   - \* Except for tablets that cannot use SIM cards.
   - SIM card must not be out of service.
   - SIM card needs to be able to access the internet.
   - Only 2 devices per valid SIM card are allowed to be unlock to a valid SIM card within a three-month period.
-- An valid Xiaomi account:
-  - A unbanned\* Xiaomi account.
+- A valid Xiaomi account:
+  - An unbanned\* Xiaomi account.
   - Each account can only unlock 1 phone in a month and 3 phones in a year period.
 - You have read and understood the [Warning](#%EF%B8%8F-warning) above.
 
