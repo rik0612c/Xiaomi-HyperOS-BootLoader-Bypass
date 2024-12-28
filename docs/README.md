@@ -65,7 +65,7 @@ If you're experiencing any of the above, consider yourself damned. Ever since Xi
 
 6. Tap repeatedly on the `Settings - About Phone - MIUI Version` to enable `Development Options`.
 7. Enable `OEM Unlocking`, `USB Debugging` and `USB Debugging (Security Settings)` in `Settings - Additional Settings - Development Options`.
-8. Log in an _valid_\* Xiaomi account.
+8. Log in a _valid_\* Xiaomi account.
 9. Connect phone to PC via wired interface.
 10. Check `Always allow from this computer` and click `OK`.
 
